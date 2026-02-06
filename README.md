@@ -63,7 +63,7 @@
 
 ---
 
-## 構成図
+## テーブル設計
 
 
 <img width="1116" height="316" alt="image" src="https://github.com/user-attachments/assets/ade09ecc-2ff6-4e6a-8cbb-7adcacdd8ce7" />
